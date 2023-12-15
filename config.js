@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://xftld.org/index.php#/dashboard',
 				},
 				{
-					name: 'LambertRao',
-					link: 'http://lambertrao.top/',
+					name: 'Vercel',
+					link: 'https://vercel.com/lambert-raos-projects',
 				},
 			],
 		},
