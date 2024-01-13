@@ -79,13 +79,13 @@ const CONFIG = {
 			id: '5',
 			name: 'proxy',
 			icon: 'network',
-			link: 'http://localhost/static/clash',
+			link: 'https://localhost/static/clash',
 		},
 		{
 			id: '6',
-			name: 'Google',
-			icon: 'search',
-			link: 'https://www.google.com/',
+			name: 'Aria2',
+			icon: 'folder-down',
+			link: 'https://localhost/static/aria2',
 		},
 	],
 
