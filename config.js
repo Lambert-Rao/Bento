@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Bilibili',
+			name: 'Bangumi',
 			icon: 'play',
-			link: 'https://bilibili.com/',
+			link: 'https://bgm.tv/',
 		},
 		{
 			id: '3',
